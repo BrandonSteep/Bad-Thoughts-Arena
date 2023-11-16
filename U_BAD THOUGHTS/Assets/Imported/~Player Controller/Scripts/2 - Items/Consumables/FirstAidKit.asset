@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62dd3e15a0645fa44895e6a92347eb0c, type: 3}
+  m_Name: FirstAidKit
+  m_EditorClassIdentifier: 
+  itemID: 0
+  itemName: FirstAidKit
+  itemDescription: 'A household Medkit.
+
+
+    These packs contain a herbal stimulant
+    that accelerates healing and administers immediate pain relief.'
+  isStackable: 0
+  equippableItem: {fileID: 869800495521892833, guid: 0f688d8bdaa6bc74b97e6b9b151bfb1b, type: 3}
+  itemSprite: {fileID: 21300000, guid: 6cf7b07601db56b488f213126281292e, type: 3}
+  itemModel: {fileID: 0}
+  healAmount: 5
